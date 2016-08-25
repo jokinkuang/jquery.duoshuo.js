@@ -12,7 +12,7 @@ a jQuery plugin to load duoshuo comments likes and other data
 \<span class="post-data" data-method="comments" data-short-name='jokin' data-thread-key="index" data-text=" · 评论 %s"> · 评论 0\</span>  
 \<span class="post-data" data-method="reposts" data-short-name='jokin' data-thread-key="index" data-text=" · 转发 %s"> · 转发 0\</span>  
 
-\<script src="http://cdn.bootcss.com/jquery/3.1.0/jquery.min.js">\</script>  
+\<script src="[http://cdn.bootcss.com/jquery/3.1.0/jquery.min.js]()">\</script>  
 \<script src="pagecache.js">\</script>  
 \<script src="jquery.duoshuo.js">\</script>  
 ```javascript
@@ -25,7 +25,7 @@ a jQuery plugin to load duoshuo comments likes and other data
 \<span class="post-comments"> · 评论 0\</span>  
 \<span class="post-reposts"> · 转发 0\</span>  
 
-\<script src="http://cdn.bootcss.com/jquery/3.1.0/jquery.min.js">\</script>  
+\<script src="[http://cdn.bootcss.com/jquery/3.1.0/jquery.min.js]()">\</script>  
 \<script src="pagecache.js">\</script>  
 \<script src="jquery.duoshuo.js">\</script>  
 ```javascript
@@ -40,7 +40,7 @@ a jQuery plugin to load duoshuo comments likes and other data
 \<span class="post-comments"> · 评论 0\</span>  
 \<span class="post-reposts"> · 转发 0\</span>  
 
-\<script src="http://cdn.bootcss.com/jquery/3.1.0/jquery.min.js">\</script>  
+\<script src="[http://cdn.bootcss.com/jquery/3.1.0/jquery.min.js]()">\</script>  
 \<script src="pagecache.js">\</script>  
 \<script src="jquery.duoshuo.js">\</script>  
 ```javascript
