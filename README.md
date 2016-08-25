@@ -50,6 +50,29 @@ a jQuery plugin to load duoshuo comments likes and other data
 </script>
 ```
 
+### priority
+data-attr < settings < parameter
+> parameter override the settings, settings override the data-attr
+
+
+### default settings object
+```javascript
+  {
+    attrText: "data-text",
+    attrKey: "data-thread-key",
+    attrName: "data-short-name",
+    defaultSymbol: "%s",
+    domain: "http://api.duoshuo.com",
+    shortName: "",
+  }
+```
+> you can override the settings by `$.Duoshuo.settings = {}`
+
+
+### function call
+> $(selector).duoshuo([[[["method"], "text"], "thread_key"], "short_name"])
+
+
 ## License
 
 Under The [MIT](https://tldrlegal.com/license/mit-license) License
