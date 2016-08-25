@@ -3,8 +3,8 @@ a jQuery plugin to load duoshuo comments likes and other data
 
 ## Dependence
 
-* jquery.js
-* pagecache.js
+* [jquery.js](https://jquery.com/)
+* [pagecache.js](https://github.com/jokinkuang/pagecache.js)
 
 ## Demo
 
