@@ -1,5 +1,5 @@
 # jquery.duoshuo.js
-a jQuery plugin to load duoshuo comments likes and other data
+a jQuery plugin to load duoshuo comments、likes、reposts、views and so on
 
 ## Dependence
 
